@@ -1,0 +1,19 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "parcel src/index.html -d dist/development/ --open",
+    "build": "parcel build src/index.html -d dist/production/ --no-source-maps --public-url ./",
+    "now:dev": "now dev",
+    "now:deploy": "now"
+  },
+  "author": "Nhat Nguyen",
+  "license": "MIT",
+  "dependencies": {
+    "three": "^0.111.0",
+    "three-orbitcontrols": "^2.110.3"
+  },
+  "devDependencies": {
+    "now": "^16.7.0",
+    "parcel-bundler": "latest"
+  }
+}
