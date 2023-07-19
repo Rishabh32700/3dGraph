@@ -1,82 +1,133 @@
 [
   {
     "name": "Wallis Bridgwood",
-    "age": 52,
-    "race": "South American"
+    "age": 23,
+    "race": 10
   },
   {
     "name": "Thorpe Hold",
-    "age": 21,
-    "race": "Colombian"
+    "age": 28,
+    "race": 10
   },
   {
     "name": "Bobina Davidovitch",
-    "age": 57,
-    "race": "Tohono O'Odham"
+    "age": 45,
+    "race": 10
   },
   {
     "name": "Elsie Negus",
-    "age": 57,
-    "race": "Paiute"
+    "age": 32,
+    "race": 10
   },
   {
     "name": "Betti Elwill",
-    "age": 57,
-    "race": "Yuman"
+    "age": 38,
+    "race": 10
   },
   {
     "name": "Barbara Yakebovich",
-    "age": 49,
-    "race": "Paiute"
+    "age": 33,
+    "race": 10
   },
+
+
+
+
   {
     "name": "Sela Lidster",
     "age": 23,
-    "race": "Shoshone"
+    "race": 10
   },
   {
     "name": "Con Harcombe",
     "age": 54,
-    "race": "Seminole"
+    "race": 10
   },
   {
     "name": "Bradney Samuels",
     "age": 45,
-    "race": "Cuban"
+    "race":10  
   },
   {
     "name": "Eartha Anscombe",
     "age": 53,
-    "race": "Cheyenne"
+    "race": 10
   },
   {
     "name": "Orelee McPhail",
     "age": 48,
-    "race": "Tongan"
+    "race": 10
   },
   {
     "name": "Orrin Goulstone",
     "age": 21,
-    "race": "Black or African American"
+    "race": 10
   },
+
+
+
+
   {
     "name": "Gray Yurmanovev",
-    "age": 45,
-    "race": "Central American"
+    "age": 27,
+    "race": 10
   },
   {
     "name": "Caralie Donati",
-    "age": 46,
-    "race": "Samoan"
+    "age": 24,
+    "race": 10
   },
   {
     "name": "Kinnie Freire",
-    "age": 43,
-    "race": "Bolivian"
+    "age": 28,
+    "race": 10
+  },
+  {
+    "name": "Kinnie Freire",
+    "age": 32,
+    "race": 10
+  },
+  {
+    "name": "Kinnie Freire",
+    "age": 39,
+    "race": 10
+  },
+  {
+    "name": "Kinnie Freire",
+    "age": 41,
+    "race": 10
+  },
+
+
+
+  {
+    "name": "Kinnie Freire",
+    "age": 54,
+    "race": 10
+  },
+  {
+    "name": "Kinnie Freire",
+    "age": 44,
+    "race": 10
+  },
+  {
+    "name": "Kinnie Freire",
+    "age": 49,
+    "race": 10
+  },
+  {
+    "name": "Kinnie Freire",
+    "age": 41,
+    "race": 10
+  },
+  {
+    "name": "Kinnie Freire",
+    "age": 39,
+    "race": 10
   },
   {
     "name": "Van Seston",
-    "age": 36,
-    "race": "Melanesian"
+    "age": 42,
+    "race": 10
   }
 ]
